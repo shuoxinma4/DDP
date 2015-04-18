@@ -1,37 +1,33 @@
 myslide
 ========================================================
-author: 
-date: 
+author: Jason Ma
+date: 2015 Apr. 17
 
-First Slide
+Welcome!
 ========================================================
 
-For more details on authoring R presentations click the
-**Help** button on the toolbar.
+Thanks for coming!
 
-- Bullet 1
-- Bullet 2
-- Bullet 3
+- Here is a game
+- One of the stupid ones
+- Try to minimize the error
+- Change your estimated mean and standard deviation by clicking the sliders
 
-Slide With Code
+Something you would start with
 ========================================================
 
-
-```r
-summary(cars)
-```
-
-```
-     speed           dist       
- Min.   : 4.0   Min.   :  2.00  
- 1st Qu.:12.0   1st Qu.: 26.00  
- Median :15.0   Median : 36.00  
- Mean   :15.4   Mean   : 42.98  
- 3rd Qu.:19.0   3rd Qu.: 56.00  
- Max.   :25.0   Max.   :120.00  
-```
-
-Slide With Plot
-========================================================
-
+![plot of chunk unnamed-chunk-1](myslide-figure/unnamed-chunk-1-1.png) 
+***
 ![plot of chunk unnamed-chunk-2](myslide-figure/unnamed-chunk-2-1.png) 
+
+And your final goal
+========================================================
+
+![plot of chunk unnamed-chunk-3](myslide-figure/unnamed-chunk-3-1.png) 
+***
+![plot of chunk unnamed-chunk-4](myslide-figure/unnamed-chunk-4-1.png) 
+
+Wish you like it!
+===
+- Oh do you know that zombie mode is coming back in COD-BO3?
+- Though I prefer the Crysis series by Crytek
